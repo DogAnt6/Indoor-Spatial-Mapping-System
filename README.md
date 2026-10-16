@@ -1,6 +1,7 @@
 # Indoor-Spatial-Mapping-System
 The Indoor Spatial Mapping System is an data acquisition device designed to produce a three-dimensional point cloud map of an enclosed space, such as a hallway or room. The system is built around the MCP432E401Y microcontroller operating at an individualized bus speed of 14 MHz.
-<img width="447" height="417" alt="image" src="https://github.com/user-attachments/assets/54f916cf-53b0-4e88-9c2f-523943fe6e58" />
+
+<img width="447" height="387" alt="image" src="https://github.com/user-attachments/assets/54f916cf-53b0-4e88-9c2f-523943fe6e58" />
 <img width="386" height="464" alt="image" src="https://github.com/user-attachments/assets/7b785a3b-bc45-4fb7-83c0-9a933b7589e3" />
 
 
