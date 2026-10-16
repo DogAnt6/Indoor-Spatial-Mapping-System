@@ -4,8 +4,9 @@ The Indoor Spatial Mapping System is an data acquisition device designed to prod
 <img width="447" height="387" alt="image" src="https://github.com/user-attachments/assets/54f916cf-53b0-4e88-9c2f-523943fe6e58" />
 <img width="386" height="464" alt="image" src="https://github.com/user-attachments/assets/7b785a3b-bc45-4fb7-83c0-9a933b7589e3" />
 
-
+## 1.3 Block Diagram
 <img width="1618" height="167" alt="image" src="https://github.com/user-attachments/assets/c357b75f-7033-4ecd-9c09-fd91b14a7f71" />
+The stepper motor (Port H) is controlled in parallel by the microcontroller to rotate ToF sensor to the required positions. Push buttons on Port M trigger scan data acquisitions (PM0) and the final graph generation (PM1) via interrupts.
 
 ## Device Characteristics Table
 
